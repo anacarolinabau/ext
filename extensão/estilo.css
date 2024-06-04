@@ -1,0 +1,44 @@
+* {
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
+
+.divimg1{
+    width: 800px;
+    margin-left: 25%;
+    float: left;
+}
+
+.divtext1{
+    float: right;
+}
+
+tr{
+    background-color: greenyellow;
+    color: aliceblue;
+    font-size: 40px;
+}
+
+
+.divimg2{
+    width: 800px;
+    margin-left: 25%;
+    float: left;
+}
+
+.divtext2{
+    float: right;
+}
+
+.conteiner-section2 {
+    display: grid  ;
+    justify-content: center;
+
+}
+
+.conteiner-div {
+    padding: 30px;
+    display: inline-block;
+}
